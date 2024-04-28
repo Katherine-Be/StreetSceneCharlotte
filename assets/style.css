@@ -1,0 +1,23 @@
+/* body {
+    color: red;
+    background-color: black;
+} */
+
+/*placeholder box*/
+/* #carouselHeader {
+    backcolor: gray;
+} */
+
+/* @media (max-width: 500px) {
+    body {
+        background-color: black;
+        background-repeat: repeat-y;
+        background-size: cover;
+        background-image: url('./images/ssclogos/project_20230526_2119460-01.png');
+
+    }
+} */
+
+footer {
+    background-color: black;
+}
