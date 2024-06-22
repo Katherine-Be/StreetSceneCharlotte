@@ -22,7 +22,21 @@
 .scrollPictures {
     background-color: black;
     z-index: 10;
+}
 
+@media (max-width: 500px) {
+    body {
+        background-color: black;
+        background-image: url('./images/ssclogos/project_20230526_2119460-01.png');
+        background-repeat: repeat-y;
+        background-size: cover;
+    }
+    
+
+    .scrollPictures {
+ /* hide the scroll pictures on mobile */
+        display: none;
+    }
 }
 
 footer {
