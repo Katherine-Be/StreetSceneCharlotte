@@ -25,6 +25,20 @@
 
 }
 
+@media only screen and (max-width:575px) {   
+    .scrollPictures {
+        display: none;
+    } 
+    main {
+        overflow-x:hidden;
+    }
+    ::-webkit-scrollbar {
+        display: none; 
+    }
+}
+
+
+
 footer {
     background-color: black;
 }

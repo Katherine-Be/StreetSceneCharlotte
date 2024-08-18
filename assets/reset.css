@@ -1,0 +1,8 @@
+* {
+    overflow-x: none;
+}
+
+html { 
+    font-size: calc(1em + 1vw); 
+}
+
